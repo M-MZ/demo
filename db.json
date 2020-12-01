@@ -1,12 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "SoundEffect": [
+    { "id": "beach", "name": "صوت المحيط", "order": 1, "url": "https://drive.google.com/uc?export=download&id=1640tr45O_G0AT-5rnH_cf1zUxtAKlTM8" },
+    { "id": "bird", "name": "صوت الطيور", "order": 2, "url": "https://drive.google.com/uc?export=download&id=1dIb63hUA-3RjZCMr43l1KQDOwz972riz" },
+    { "id": "fire", "name": "صوت نار المخيم", "order": 3, "url": "https://drive.google.com/uc?export=download&id=1640tr45O_G0AT-5rnH_cf1zUxtAKlTM8" },
+    { "id": "rain", "name": "صوت المطر", "order": 4, "url": "https://drive.google.com/uc?export=download&id=1DnD1rUxAxXXbNnZ2poD74dPu2ZmNYC00" }
   ],
   "profile": {
     "name": "typicode"
